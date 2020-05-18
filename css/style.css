@@ -13,6 +13,7 @@
 }
 
 .rm-container {
+	orientation:landscape;
 	width: 33%;
 	height: 700px;
 	max-width: 370px;
